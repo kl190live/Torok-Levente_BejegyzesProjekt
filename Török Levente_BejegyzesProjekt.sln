@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Török Levente_BejegyzesProjekt", "Török Levente_BejegyzesProjekt\Török Levente_BejegyzesProjekt.csproj", "{F4ECBB3D-81F8-428C-B0EE-7D55420455FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4ECBB3D-81F8-428C-B0EE-7D55420455FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ECBB3D-81F8-428C-B0EE-7D55420455FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ECBB3D-81F8-428C-B0EE-7D55420455FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ECBB3D-81F8-428C-B0EE-7D55420455FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC5776B-2A08-462D-A928-2F46DDA6030D}
+	EndGlobalSection
+EndGlobal
