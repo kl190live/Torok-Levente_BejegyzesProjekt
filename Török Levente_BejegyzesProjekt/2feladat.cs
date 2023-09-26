@@ -23,6 +23,7 @@ namespace Török_Levente_BejegyzesProjekt
 
         public void darabszam()
         {
+
             Console.WriteLine("Adjon meg egy darabszámot:");
             int darab = int.Parse(Console.ReadLine());
             int bejegyzes = darab;
