@@ -16,6 +16,7 @@ namespace Török_Levente_BejegyzesProjekt
         {
             list1 = new List<Bejegyzes>();
             list2 = new List<Bejegyzes>();
+
             darabszam();
             beolvasa();
         }
