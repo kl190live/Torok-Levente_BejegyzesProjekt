@@ -8,7 +8,6 @@ namespace Török_Levente_BejegyzesProjekt
 {
     internal class Bejegyzes
     {
-
             private string szerzo;
             private string tartalom;
             private int likeok;
@@ -40,7 +39,6 @@ namespace Török_Levente_BejegyzesProjekt
                 return $"{this.szerzo} - {this.likeok} - {this.letrejott} \nSzerkesztve: {this.szerkesztve} \n{this.tartalom}\n";
             }
 
-        }
     }
 }
 
