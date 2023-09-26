@@ -34,6 +34,7 @@ namespace Török_Levente_BejegyzesProjekt
                 likeok++;
             }
 
+
             public override string ToString()
             {
                 return $"{this.szerzo} - {this.likeok} - {this.letrejott} \nSzerkesztve: {this.szerkesztve} \n{this.tartalom}\n";
