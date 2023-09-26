@@ -65,15 +65,16 @@ namespace Török_Levente_BejegyzesProjekt
             {
                 Console.WriteLine(item);
             }
-
         }
 
         public void veletlenLike()
         {
             int listaszam = (list1.Count() + list2.Count()) * 20;
             Random random = new Random();
-
-
+            foreach (var item in list1)
+            {
+                
+            }
 
         }
 
