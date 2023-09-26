@@ -47,6 +47,7 @@ namespace Török_Levente_BejegyzesProjekt
 
         public void beolvasa()
         {
+
             StreamReader sr = new StreamReader("bejegyzesek.csv");
             while (!sr.EndOfStream)
             {
