@@ -18,5 +18,5 @@ namespace Török_Levente_BejegyzesProjekt
             Console.ReadLine();
         }
     }
-    }
+    
 }
