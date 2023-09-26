@@ -10,6 +10,13 @@ namespace Török_Levente_BejegyzesProjekt
     {
         static void Main(string[] args)
         {
+            _2feladat f1 = new _2feladat();
+
+
+
+
+            Console.ReadLine();
         }
+    }
     }
 }
